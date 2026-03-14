@@ -85,6 +85,12 @@ Curated lists of practitioners and researchers worth following:
 
 ---
 
+## Learn How to Use AI
+
+- [Great AI Courses](Learn%20How%20to%20Use%20AI/great-ai-courses.md) — Training sites from beginner to advanced (free and paid)
+
+---
+
 ## Resources
 
 - [AI Movies](resources/ai-movies.md) — Films and shows exploring AI, from 1954 to present
