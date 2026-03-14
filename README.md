@@ -14,7 +14,8 @@ Conference talks, workshops, and training materials.
 
 | Talk | Event | Date |
 |------|-------|------|
-| [Responsible AI Velocity](presentations/2026/2026-03-rsac-responsible-ai-velocity.pdf) | RSAC | Mar 2026 |
+| [Responsible AI Velocity](presentations/2026/2026-03-rsac-responsible-ai-velocity.pdf) | RSAC | Mar 24, 2026 |
+| [OWASP COMPASS Summit](presentations/2026/2026-03-rsac-owasp-compass-summit.pdf) | RSAC | Mar 25, 2026 |
 
 ### 2025
 
