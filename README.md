@@ -10,6 +10,12 @@ A curated collection of AI security presentations, operational checklists, frame
 
 Conference talks, workshops, and training materials.
 
+### 2026
+
+| Talk | Event | Date |
+|------|-------|------|
+| [Responsible AI Velocity](presentations/2026/2026-03-rsac-responsible-ai-velocity.pdf) | RSAC | Mar 2026 |
+
 ### 2025
 
 | Talk | Event | Date |
