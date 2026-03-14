@@ -10,7 +10,7 @@ Curated list of people and channels teaching practical AI skills, prompting tech
 | Ronnie Shear | YouTube / X | AI tutorials and automation | [YouTube](https://www.youtube.com/@ronnieshear) |
 | Reuven Cohen | LinkedIn / X | AI trends and enterprise AI | [LinkedIn](https://www.linkedin.com/in/reuvencohen/) |
 | Thomas Roccia | X / Blog | AI + Security | [LinkedIn](https://www.linkedin.com/in/thomasroccia/) |
-| This Day in AI | Podcast | Daily AI news and analysis | [thisdayinai.com](https://thisdayinai.com/) |
+| This Day in AI | Podcast | Daily AI news and analysis | [thisdayinai.com](https://podcast.thisdayinai.com/) |
 | Chase (ChaseAI) | YouTube / X | AI tools and workflows | [YouTube](https://www.youtube.com/@chase_ai) |
 | Futurepedia | Website / YouTube | AI tool directory and reviews | [futurepedia.io](https://www.futurepedia.io/) |
 
