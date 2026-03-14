@@ -81,6 +81,7 @@ Curated lists of practitioners and researchers worth following:
 - [AI Security](people-to-follow/ai-security.md)
 - [Cybersecurity](people-to-follow/cybersecurity.md)
 - [AI Research](people-to-follow/ai-research.md)
+- [Learn How to Use AI](people-to-follow/learn-how-to-use-ai.md)
 
 ---
 
