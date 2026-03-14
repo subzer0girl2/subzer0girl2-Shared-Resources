@@ -1,4 +1,4 @@
-# Shared Resources — Sandy Dunn
+# Shared Resources Sandy Dunn
 
 **CISO | AI Security Practitioner | OWASP Contributor | Speaker**
 
