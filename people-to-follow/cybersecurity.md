@@ -39,4 +39,3 @@ Writes on the complexity of humans and computers.
 
 ---
 
-*To add someone, tell Eldric: "Add [name] to people to follow for Cybersecurity"*
