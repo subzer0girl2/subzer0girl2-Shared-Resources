@@ -92,7 +92,7 @@ Curated lists of practitioners and researchers worth following:
 
 ## About
 
-I'm Sandy Dunn — a CISO focused on AI security, contributor to OWASP, and frequent speaker on securing AI systems in the enterprise. These resources are shared freely for the security community.
+I'm Sandy Dunn a CISO focused on AI security, contributor to OWASP, and frequent speaker on securing AI systems in the enterprise. These resources are shared freely for the security community.
 
 If you find something useful, give it a star.
 
