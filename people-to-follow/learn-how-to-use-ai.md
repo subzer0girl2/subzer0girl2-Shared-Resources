@@ -16,4 +16,3 @@ Curated list of people and channels teaching practical AI skills, prompting tech
 
 ---
 
-*To add someone, tell Eldric: "Add [name] to people to follow for Learn How to Use AI"*
