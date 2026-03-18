@@ -28,14 +28,3 @@ Cybersecurity expert. The CISO's CISO. Currently CISO at SentinelOne.
 
 ---
 
-## Brian Christian
-
-Writes on the complexity of humans and computers.
-
-📗 **Books:**
-- *The Alignment Problem*
-- *Algorithms to Live By*
-- *The Most Human Human*
-
----
-
