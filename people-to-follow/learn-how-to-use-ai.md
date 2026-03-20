@@ -13,6 +13,7 @@ Curated list of people and channels teaching practical AI skills, prompting tech
 | This Day in AI | Podcast | Daily AI news and analysis | [thisdayinai.com](https://podcast.thisdayinai.com/) |
 | Chase (ChaseAI) | YouTube / X | AI tools and workflows | [YouTube](https://www.youtube.com/@chase_ai) |
 | Futurepedia | Website / YouTube | AI tool directory and reviews | [futurepedia.io](https://www.futurepedia.io/) |
+| Nick Saraev | YouTube | AI automation, no-code workflows, Make.com | [YouTube](https://www.youtube.com/@nicksaraev) |
 
 ---
 
