@@ -13,6 +13,8 @@ Curated list of researchers, engineers, and thinkers advancing AI.
 | Jodie Burchell | Developer Advocate in Data Science, JetBrains | Data science, developer advocacy | [Blog](https://t-redactyl.io/posts/) |
 | Daniel Miessler | Security researcher, writer | AI + security, automation, ideas | [danielmiessler.com](https://danielmiessler.com/) |
 | Brian Christian | Writes on the complexity of humans & computer | 📗 Books The Alignment Problem, Algorithms to Live By, The Most Human Human | [brianchristian.org](https://brianchristian.org/) |
+| Zvi Mowshowitz | Independent AI analyst, founder of Balsa Research | AI safety, policy, weekly AI roundups | [Don't Worry About the Vase](https://thezvi.substack.com) |
+| Nathan Labenz | Host of The Cognitive Revolution podcast | AI futures, safety, multi-perspective analysis | [cognitiverevolution.ai](https://www.cognitiverevolution.ai/) |
 ---
 
 
