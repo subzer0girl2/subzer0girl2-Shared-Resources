@@ -14,6 +14,7 @@ Conference talks, workshops, and training materials.
 
 | Talk | Event | Date |
 |------|-------|------|
+| [What Is AI Security ?](https://github.com/subzer0girl2/subzer0girl2-Shared-Resources/blob/main/presentations/2026/WhatisAISecurity4926.pdf) | Boise Meetup | April 9, 2026 |
 | [Responsible AI Velocity](presentations/2026/2026-03-rsac-responsible-ai-velocity.pdf) | RSAC | Mar 24, 2026 |
 | [OWASP COMPASS Summit](presentations/2026/2026-03-rsac-owasp-compass-summit.pdf) | RSAC | Mar 25, 2026 |
 
